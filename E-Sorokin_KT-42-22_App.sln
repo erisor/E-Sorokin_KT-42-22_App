@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Sorokin_KT-42-22_App", "E-Sorokin_KT-42-22_App\E-Sorokin_KT-42-22_App.csproj", "{DAF04342-304B-4539-BBB7-0EA8CEBE5F97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Sorokin_KT-42-22_App.Tests", "E-Sorokin_KT-42-22_App.Tests\E-Sorokin_KT-42-22_App.Tests.csproj", "{2904BF9D-3E61-41B8-A189-24293E41A670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF04342-304B-4539-BBB7-0EA8CEBE5F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF04342-304B-4539-BBB7-0EA8CEBE5F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF04342-304B-4539-BBB7-0EA8CEBE5F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF04342-304B-4539-BBB7-0EA8CEBE5F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2904BF9D-3E61-41B8-A189-24293E41A670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2904BF9D-3E61-41B8-A189-24293E41A670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2904BF9D-3E61-41B8-A189-24293E41A670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2904BF9D-3E61-41B8-A189-24293E41A670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D945AC-5AF2-4D38-8BF9-0CB60CE741D7}
+	EndGlobalSection
+EndGlobal
